@@ -1,5 +1,5 @@
-### Hi there 👋
-- I’m currently learning ... 
+### Olá 👋
+- Estou apredendo Python
 
 
 ### Skills
