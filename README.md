@@ -1,5 +1,12 @@
 ### Hi there 👋
-- 🌱 I’m currently learning ...
+- I’m currently learning ... 
+
+
+### Skills
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="html"  widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
+
+
 
 <!--
 **wpsd2/wpsd2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
